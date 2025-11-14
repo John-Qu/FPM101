@@ -1,19 +1,19 @@
 site_name: PackMachine101
 repo_url: https://github.com/John-Qu/FPM101
 nav:
-  - 市场: 
-      - 生鲜与预制菜: docs/market/ready-meals.md
-  - 技术: 
-      - 包装技术速成: docs/technology/packaging-basics.md
-  - 设备: 
-      - 整线架构: docs/equipment/system-architecture.md
-  - 产品: 
-      - TS350映射: docs/product/ts350-mapping.md
-  - 竞品: 
-      - 总览对比: docs/competitors/overview.md
-      - G.Mondini TRAVE: docs/competitors/gmondini-trave.md
-      - MULTIVAC T700: docs/competitors/multivac-t700.md
-  - 培训: 
+  - 市场:
+      - 生鲜与预制菜: market/ready-meals.md
+  - 技术:
+      - 包装技术速成: technology/packaging-basics.md
+  - 设备:
+      - 整线架构: equipment/system-architecture.md
+  - 产品:
+      - TS350映射: product/ts350-mapping.md
+  - 竞品:
+      - 总览对比: competitors/overview.md
+      - G.Mondini TRAVE: competitors/gmondini-trave.md
+      - MULTIVAC T700: competitors/multivac-t700.md
+  - 培训:
       - 四小时提纲: training/outline.md
       - 高频问答: training/qa.md
       - 案例卡片: training/casecards.md
