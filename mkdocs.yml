@@ -20,6 +20,8 @@ nav:
       - 包装技术速成讲义: training/packaging-quickstart.md
       - 设备方案与整线讲义: training/equipment-line-lecture.md
       - 竞品速览与差异化话术: training/competitor-lecture.md
+      - 需求澄清演练：方法与场景卡: training/requirements-workshop.md
+      - 需求澄清演练：场景卡: training/requirements-scenarios.md
       - 高频问答: training/qa.md
       - 案例卡片: training/casecards.md
   - 词汇: glossary/terms.md
