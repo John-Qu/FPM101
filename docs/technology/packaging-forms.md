@@ -79,3 +79,15 @@
 - 基础速成：`docs/technology/packaging-basics.md`
 - 客户场景与渠道诉求：`docs/market/customer-scenarios.md`
 - TS350映射：`docs/product/ts350-mapping.md`
+
+## 按八大品类的包装建议（结合行业实践）
+- 肉类（Meat）：MAP为主，残氧与泄漏控制，抑制氧化与变色；高端陈列可用VSP提升呈现与保形。膜需防穿刺与防雾，托盘支撑强度要足。
+- 禽类（Poultry）：MAP控制微生物与气味，关注渗液管理与二次包装；促销季SKU多，强调换型与节拍稳定，VSP用于小包装增颜值。
+- 奶酪（Cheese）：硬质奶酪可真空或VSP，切片与高端可用VSP呈现；软奶酪与新鲜奶酪偏MAP，关注气体比例与水汽控制。
+- 蔬果（Produce）：EMAP或透气膜适配呼吸强度，防雾与冷凝管理关键；脆弱类需防挤压托盘与支撑结构。
+- 烘焙/饼干/糖果（Bakery, Biscuits, Confectionery）：常压封口或轻度MAP以防潮与氧化；关注膜水汽透过率与二次包装稳定性。
+- 预制菜（Ready Meals）：常压或MAP，强调加热便捷（微波/烤箱膜与托盘）、标签与追溯；批次一致与快速换型关键。
+- 鱼类与海鲜（Fish-Seafood）：MAP降低氧化与腥味传播，高端生食与冷冻可用VSP防冻灼与保形；膜防穿刺要求高。
+- 医疗与医药（Medical-Pharma）：需洁净环境与密封完整性验证，材料与封口参数需符合医疗器械包装规范，本项目以食品为主仅提供平台级封口能力说明。
+
+参考类别导航：https://www.ulmapackaging.com/en
