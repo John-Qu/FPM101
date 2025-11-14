@@ -18,6 +18,7 @@ nav:
   - 培训:
       - 四小时提纲: training/outline.md
       - 包装技术速成讲义: training/packaging-quickstart.md
+      - 设备方案与整线讲义: training/equipment-line-lecture.md
       - 高频问答: training/qa.md
       - 案例卡片: training/casecards.md
   - 词汇: glossary/terms.md
