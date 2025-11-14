@@ -11,12 +11,18 @@
 
 ![常压封口示意](../assets/diagrams/lidding.svg)
 
+参考与实物照片：
+- 热封/Just Sealed（官方）：https://www.gmondini.com/
+
 ## MAP（Modified Atmosphere Packaging）改良气调
 - 定义：抽真空后充入混合气体（CO2/N2），降低O2以延长货架期。
 - 适用：鲜肉、海鲜、熟食分装、部分即食餐；以残氧与泄漏为核心指标。
 - 关键点：气体配比与稳定性、残氧目标（常见≤0.5–1.0%）、泄漏测试与抽检频率。
 
 ![MAP示意](../assets/diagrams/map_tray.svg)
+
+参考与实物照片：
+- 技术归档（含MAP简介与适用品类）：https://www.gmondini.com/platform-technology
 
 ## VSP（Vacuum Skin Packaging）真空肌肤（Skin）
 - 定义：上膜在真空下紧贴产品轮廓，与托盘热封，形成“第二层皮肤”。
@@ -25,6 +31,11 @@
 
 ![VSP示意](../assets/diagrams/vsp_skin.svg)
 
+参考与实物照片：
+- Vacuum Skin 技术页：https://www.gmondini.com/technology/cat/vacuum-skin
+- Standard Skin：https://www.gmondini.com/technology/standard-skin
+- Darfresh® on Tray：https://www.gmondini.com/technology/dot
+
 ## EMAP（Equilibrium MAP）平衡气调
 - 定义：依靠膜的透气性或微孔实现气体自调节，与呼吸型产品达成平衡。
 - 适用：蔬果、鲜切；关注冷凝与水汽，防雾与防挤压设计。
@@ -32,12 +43,18 @@
 
 ![EMAP示意](../assets/diagrams/emap_breath.svg)
 
+参考与实物照片：
+- 技术归档（含EMAP概述）：https://www.gmondini.com/platform-technology
+
 ## 纸基与可持续方案（Paper-based / Skin on Board）
 - 定义：使用纸板作为承载或背衬，与膜热封；可提升可回收与外观质感。
 - 适用：品牌强调可持续与陈列美观的SKU。
 - 关键点：耐潮与强度验证、切边与膜利用率、材料合规与标签。
 
 ![纸基方案示意](../assets/diagrams/paperboard.svg)
+
+参考与实物照片：
+- Paperseal® SKIN：https://www.gmondini.com/technology/paperseal-skin
 
 ## 决策与对比（管理视角）
 | 维度 | 常压封口 | MAP | VSP/皮肤 | EMAP | 纸基方案 |
