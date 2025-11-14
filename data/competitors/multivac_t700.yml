@@ -1,0 +1,35 @@
+brand: MULTIVAC
+series: T
+model: T 700
+packaging:
+  - MAP
+  - EMAP
+  - VSP
+lanes: tbd
+throughput_trays_per_min: tbd
+residual_o2_target: tbd
+leak_rate_target: tbd
+tool_change_time_min: tbd
+materials:
+  - plastic
+  - aluminium
+  - board (fiber-based)
+controls: MULTIVAC integrated controls
+hygiene: High hygiene design
+auth_innovations:
+  - MULTIVAC Tray Carrier (MTC) for special trays
+  - Wide range of die sizes and integration options
+utilities:
+  vacuum: required
+  gas_mix: optional MAP gas mixing
+  air: required
+  power: per configuration
+maintenance:
+  wear_parts_life: tbd
+  spares_cost_level: tbd
+  cleaning_time_min: tbd
+  energy_consumption: tbd
+case_studies: []
+references:
+  - https://my.multivac.com/en/solutions/packaging-solutions/traysealers/automatic-high-output-traysealers/
+  - https://us.multivac.com/en/solutions/products/categories/product/traysealer/automatic-traysealers/t-700/
