@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="160">
+  <rect x="20" y="60" width="260" height="60" fill="#e8eaf6" stroke="#3f51b5" stroke-width="2"/>
+  <path d="M40 80 C80 70, 120 70, 160 78 C200 86, 240 86, 260 80" fill="#90caf9" stroke="#1976d2"/>
+  <line x1="20" y1="60" x2="280" y2="60" stroke="#3f51b5" stroke-width="4"/>
+  <text x="30" y="40" font-size="12" fill="#3f51b5">真空下上膜贴合产品轮廓（Skin）</text>
+  <text x="30" y="150" font-size="12" fill="#3f51b5">托盘（Tray）</text>
+</svg>
