@@ -3,6 +3,7 @@ repo_url: https://github.com/John-Qu/FPM101
 nav:
   - 市场:
       - 生鲜与预制菜: market/ready-meals.md
+      - 客户场景与渠道诉求: market/customer-scenarios.md
   - 技术:
       - 包装技术速成: technology/packaging-basics.md
   - 设备:
