@@ -1,44 +1,84 @@
 # 竞品档案：G.Mondini TRAVE-350
 
-![TRAVE-350 总览](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-01.jpg?height=935&width=983&top_left_y=465&top_left_x=519)
+![TRAVE-350 总览](../assets/competitors/gmondini-trave-350/trave-350-01-overview.jpg)
+
+## General description
+
+Tool sizes are 340 mm in width and 570 in length, number of trays per tool can be maximum 4 according to the tray dimension in travelling direction. Sealing tool driving system and sealing force generator consist in a fully electro-mechanical system.
 
 ## 总体描述
 
 工具宽度为 340 毫米，长度为 570 毫米，根据托盘在运行方向上的尺寸，每个工具最多可装配 4 个托盘。密封工具驱动系统和密封力生成器由完全电机械系统组成。
 
+## Tray in feed
+
+A belt is receiving the trays from a previous conveyor. Trays have to arrive aligned and at a suitable distance. A smart belt will pace and group the trays, independently of the previous pitch, to prepare them to be transferred to the sealing station. These two belts can handle random feeding speed and allow the machine to remain in stand by, which is important, both for fully automated solutions and for manual operations. Detection of the tray is provided by a single photo eye positioned above the travelling plane.
+
 ## 托盘进料
 
 皮带从前一条输送机接收托盘。托盘必须到达时对齐且间距合适。智能皮带将独立于先前的节距，对托盘进行调速和分组，为其转移到密封站做好准备。这两条皮带可以处理随机进料速度，并允许机器保持待机状态，这对于全自动解决方案和手动操作都很重要。检测由位于行进平面上方的单个光电眼提供。
 
-![进料示意](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-01.jpg?height=361&width=843&top_left_y=2055&top_left_x=1102)
+![进料示意](../assets/competitors/gmondini-trave-350/trave-350-01-feed.jpg)
+
+## Tray handling
+
+To avoid tray shaking and excessive deceleration and acceleration of the product inside the tray, the handling is extremely smooth and accurate. Trays are moved from the smart belt to the sealing station through moving arms, which are gripping the group from the side. These arms are controlled by a servomotor system, whose main characteristics are smoothness, high speed, consistency, accuracy and extremely low maintenance and by a long-stroke pneumatic piston for the rotation to allow a very good smoothness and a wide range of settings.
 
 ## 托盘处理
 
 为避免托盘振动以及托盘内产品过度减速和加速，处理方式极其平稳和精确。托盘通过侧面夹持托盘组的活动臂从智能传送带移送到密封站。这些活动臂由伺服电机系统控制，该系统具有平稳、高速、一致性、精准性和极低维护要求等特点，配合长行程气动活塞进行旋转，确保极佳的平稳性和宽泛的调节范围。
 
+## Film unwinding and waste rewind
+
+Film saving and reliable continuous run are at the base of the development of the system incorporated in this tray sealer. The reel is positioned on a cantilever shaft which is connected to a servomotor. Film is kept in tension through several shafts, which are supported both sides to avoid any misalignment. A dancing bar keeps a constant tension on the film during the unwinding. The film is pulled through the tool via two counter rotary rollers, controlled by an electrical motor, which allows smooth pulling to reach the maximum waste savings. A clutch controls the tension on the continuous running film waste rewind.
+
 ## 薄膜展开与废料卷回
 
 薄膜节省和可靠的连续运行是该托盘密封机系统开发的基础。卷轴位于与伺服电机连接的悬臂轴上。薄膜通过多个轴保持张力，这些轴两侧都有支撑，以避免任何错位。舞动杆在薄膜展开期间保持恒定的张力。薄膜通过两个反向旋转的滚筒拉过工具，由电机控制，确保平稳拉伸以达到最大废料节省。离合器控制连续运行薄膜废料卷回的张力。
 
-![胶片路径](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-02.jpg?height=575&width=790&top_left_y=239&top_left_x=1189)
+![胶片路径](../assets/competitors/gmondini-trave-350/trave-350-02-film-1.jpg)
+
+## Sealing Station
+
+Once the trays are positioned in the sealing tool, the lower part is raised and the sealing process starts. High sealing force and consistency of sealing parameters are critical to guarantee the same seal characteristics tray after tray. The TRAVE-350 is equipped with a high duty system which is of an electromechanical type. A rod-crank system is controlling the motion up and down of the sealing tool, keeping an absolute control of the tool position while still very fast. The sealing force can reach 2200 Kg. Main characteristics of this solution are smoothness, high speed, very high consistency in sealing force, very high accuracy in positioning and extremely low maintenance.
 
 ## 密封工作站
 
 一旦托盘位于密封工具中，下部分升起，密封过程开始。高密封力和密封参数的一致性对于保证逐盘相同的密封特性至关重要。TRAVE-350 配备了高性能电机械系统。杆-曲柄系统控制密封工具的上下运动，在保持绝对位置控制的同时保证速度极快。密封力可达 2200 公斤。该方案的主要特点是平稳、高速、密封力高度一致、定位精度极高和维护需求极低。
 
+## Tooling
+
+Each tray foot print has its own tool, but different tray heights are handled in the same tool. The construction is completely in anodised aluminium and all parts are machined from a single piece to reach the best accuracy in sealing pressure distribution. Each tray cavity supports the base of the sealing edge with a T section gasket to recover from different thickness in the packaging material. The location of the tray is as accurate as possible, due to tray size consistency, to reach the best results in seal location and film trimming. Sealing plates are made of aluminium-bronze, to keep the sealing temperature consistent in all contact points, the sealing profile varies according to the specific packaging material, it also contributes to remove contamination from the sealing area. Heating is provided by an element cast into aluminium. This solution provides a long lasting heater plate and a very accurate sealing temperature control: plus or minus five degrees between each point.
+
 ## 工装
 
 每个托盘足迹都有其自己的工装，但不同的托盘高度可在同一工装中处理。结构完全采用阳极氧化铝制成，所有部件都从单一材料加工而成，以达到密封压力分布的最佳精度。每个托盘腔体都配有 T 形截面垫圈来支撑密封边缘的底部，以适应包装材料厚度的差异。由于托盘尺寸的一致性，托盘的位置设置得尽可能精确，以获得最佳的密封位置和薄膜切割效果。密封板采用铝铜合金制成，可以保持所有接触点的密封温度一致；密封轮廓根据特定的包装材料而变化，这也有助于清除密封区域的污染。加热由铸入铝中的加热元件提供。该解决方案提供了使用寿命长的加热板和非常精确的密封温度控制：各点间温度误差不超过五度。
+
+## Out feed
+
+A policord belt takes the sealed trays out of the guarding in a straight line.
 
 ## 出料
 
 一条聚芯输送带将密封后的托盘直线输出，离开防护装置。
 
-![出料示意](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-03.jpg?height=792&width=689&top_left_y=365&top_left_x=1159)
+![出料示意](../assets/competitors/gmondini-trave-350/trave-350-03-outfeed-1.jpg)
+
+## Wash Down capabilities
+
+Clean ability and resistance to continuous wash down is one of the main characteristic of this machine.
 
 ## 冲洗能力
 
 清洁能力和抗连续冲洗性是该机器的主要特点之一。
+
+## Hygiene Design
+
+- Avoidance of contact between extended flat surfaces
+- No closed cavities which can trap water and dirt
+- No sensors below travelling plane
+- Reduction of exposed nuts and bolts to increase easy cleanable surface
+- One main electrical cabinet and one main mechanical cabinet
 
 ## 卫生设计
 
@@ -48,13 +88,29 @@
 - 减少暴露的螺母和螺栓，以增加易清洁表面
 - 一个主电气柜和一个主机械柜
 
-![卫生设计细节](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-04.jpg?height=620&width=610&top_left_y=291&top_left_x=1247)
+![卫生设计细节](../assets/competitors/gmondini-trave-350/trave-350-04-hygiene.jpg)
+
+## Food grade materials
+
+- Stainless steel for main body
+- Anodised aluminium tool
+- Belts in polyurethane
 
 ## 食品级材料
 
 - 主体采用不锈钢
 - 阳极氧化铝工具
 - 聚氨酯皮带
+
+## IP Rate
+
+- IP 65 mechanical cabinet
+- IP 65 electrical cabinet
+- IP 65 pneumatic and services cabinet
+- IP 67 control panel
+- IP 67 control switches
+- IP 67 photo eyes with quick release for quick substitution
+- IP 67 proximity sensors with quick release for quick substitution
 
 ## IP 等级
 
@@ -65,6 +121,19 @@
 - IP67 控制开关
 - IP67 光电传感器（快速释放便于更换）
 - IP67 接近传感器（快速释放便于更换）
+
+## Operations
+
+Start, Stop, Reset, are simply controlled with standard and user friendly switches. All other settings are controlled via panel control. In this way the operators are free to use the machine without the risk of changing parameters which can jeopardize the efficiency. The list of parameters which are menu driven are:
+
+- Sealing Temperature
+- Sealing Time
+- Vacuum Time (optional)
+- Gas Time (optional)
+- Film Unwinding Speed
+- Length of film, by time
+
+All previous parameters are stored into recipes to allow an easy and fast change over. Increased list of parameters are due for automatic lines.
 
 ## 操作
 
@@ -77,11 +146,19 @@
 - 胶片展开速度
 - 胶片长度（按时间）
 
-所有参数可存储为配方，便于快速换型。
+所有参数可存储为配方，便于快速换型。自动生产线需要增加参数列表。
+
+## Change Over
+
+A full change over of the tray sealer can be done in ten minutes. All parameters are menu driven, in this way the skill requirement is very low. Both bottom and top tool slide out of the chassis of the machine. The top and the bottom tool are locked and unlocked through a pneumatic quick release system. No lifting is required by the operators.
 
 ## 更换
 
-托盘密封机的完整更换可在十分钟内完成。上下工具可从机架中滑出，并通过气动快拆系统锁定/解锁，操作员无需搬运。
+托盘密封机的完整更换可在十分钟内完成。所有参数均通过菜单驱动，因此操作人员的技能要求非常低。上下工具都可从机器底座中滑出。上下工具通过气动快速释放系统进行锁定和解锁。操作员无需进行任何提升操作。
+
+## Performances (cycles per minute)
+
+The product and the packaging material will determine exactly the cycle time. However, as a reference, we consider the following table of cycles per minute.
 
 ## 性能（每分钟循环数）
 
@@ -90,9 +167,20 @@
 | 固体 | 17 | 15 | 14 | 17 | 16 |
 | 液体 | 10 | 10 | 8 | 10 | 10 |
 
+## Maintenance
+
+Being mainly a mechanical machine, all bearings, bushing, shaft etc need to be greased regularly. Each tool has its own greasing point.
+
 ## 维护保养
 
 作为主要的机械设备，所有轴承、衬套、轴等都需要定期润滑。每个工具都有其自己的润滑点。
+
+## Mechanical Specifications
+
+- Electrical Motors: Coel.
+- Gear Box: STM
+- Drum motor: Interrol
+- Belts: Habasit
 
 ## 机械规格
 
@@ -101,17 +189,25 @@
 - 鼓形电动机：Interrol
 - 皮带：Habasit
 
+## Pneumatic Specifications
+
+- Metalwork
+
 ## 气动规格
 
 - 金属加工（Metalwork）
+
+## Health and safety
+
+The machine is CE marked and comes with declaration of conformity.
 
 ## 健康与安全
 
 该机器已获得 CE 标记，并随附符合性声明。
 
-![安全标识](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-05.jpg?height=113&width=89&top_left_y=2689&top_left_x=474)
+![安全标识](../assets/competitors/gmondini-trave-350/trave-350-05-ce.jpg)
 
-## 电气规格（主要元件）
+## Electrical Specifications (main components)
 
 | 项目 | 品牌/型号 |
 | :--- | :--- |
@@ -140,7 +236,7 @@
 | 轴控制 | B&R |
 | 轴电机 | B&R |
 
-## 分项驱动配置
+## Driving unit per Item
 
 | 子系统 | 驱动配置 |
 | :--- | :--- |
@@ -160,78 +256,137 @@
 | 气动系统 | PN |
 | 不适用 | NA |
 
-## 托盒封口机选项
+## TRAY SEALER OPTIONS
 
-### 真空及气体（MAP）
+## Vacuum & Gas
+
+This option allows the production of modified atmosphere packs. It includes:
+
+- Vacuum Pump: Busch 300 m3.
+- Vacuum hoses and valves Gemu.
+- Gas reservoir.
+- Gas hoses and valves.
+- Vacuum and Gas tool. The vacuum chamber is machined out of a single piece of aluminum to reduce the risk of leakage. Also all seals are lip seals type and greased with vacuum type grease. The minimum pressure reachable is below 4 mbar. These results are important to decrease oxygen residuals and to increase productivity.
+- PLC software.
+
+## 真空及气体（MAP）
 
 此选项允许生产改良气调包装，包含：Busch 300 m³ 真空泵、真空软管与 Gemu 阀、气体储罐与软管阀、真空与气体工装（真空室整块铝加工，唇形密封并用真空脂润滑，最低压力 <4 mbar）、PLC 软件。
 
-### 防爆泵
+## Anti-explosion pump
+
+It is mandatory whenever using high oxygen flows or gas mixing and the machine is sold with a vacuum pump.
+
+## 防爆泵
 
 使用高氧流量或气体混合时必须配备，机器配真空泵。
 
-### 高氧保护
+## High oxygen protection
 
-所有真空阀与气体阀均配接近传感器做状态检测。独立 PLC 每循环校验真空与气体系统，避免缺气流向真空泵；异常时进入告警。注：该系统未认证，需终端用户负责选用适配泵。
+All the vacuum valves and gas valves are provided with proximity sensor for positive detection of status (open and closed). A PLC which is separate from the main one checks that the vacuum and gas system is working properly for each cycle, avoiding a flow of missing gas to the vacuum pump. In case of malfunctioning the machine detects it and goes in a state of alarm. Note: this system is not certified and it will be totally under the responsibility of the end user to be provided with suitable pumps for the type of product to be packed.
 
-![压力监测](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-07.jpg?height=116&width=89&top_left_y=2689&top_left_x=788)
+## 高氧保护
 
-### 旁通带
+所有真空阀与气体阀均配接近传感器做状态检测。独立 PLC 每循环校验真空与气体系统，避免缺气流向真空泵；异常时进入告警。注意：本系统未经认证，由最终用户完全负责配备适合所要包装产品类型的合适泵。
+
+![压力监测](../assets/competitors/gmondini-trave-350/trave-350-07-pressure.jpg)
+
+## By-pass belt
+
+By-pass belt suitable for allowing un-sealed trays to pass through the sealing station without being heat sealed. The by-pass belt is positioned in the place of the sealing tool where there are trays which have to by-pass the sealing station.
+
+## 旁通带
 
 旁通带允许未热封托盘通过密封站。该带位于需要旁通的托盘位置处替代密封工装。
 
-![旁通示意](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-08.jpg?height=572&width=747&top_left_y=265&top_left_x=1147)
+![旁通示意](../assets/competitors/gmondini-trave-350/trave-350-08-bypass.jpg)
 
-### 预切盖
+## Pre Cut Lid
 
-穿梭系统从侧面料仓取预切盖并放置于密封轮廓，吸盘保压定位。需机器预配预切盖穿梭。
+A shuttle system allows the machine to pick pre cut lids from the side magazine located on the side of the tool. This option includes: Shuttle structure, Vacuum generator, Hoses and electro valves, Tool with side magazine, PLC software.
 
-![预切盖示意](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-08.jpg?height=618&width=977&top_left_y=1112&top_left_x=1033)
+## 预切盖
 
-### 印刷胶片定位
+穿梭系统从侧面料仓取预切盖并放置于密封轮廓，吸盘保压定位。此选项包括：梭形结构、真空发生器、软管与电磁阀、侧仓工装、PLC 软件。需机器预配预切盖穿梭。
+
+![预切盖示意](../assets/competitors/gmondini-trave-350/trave-350-08-precutlid.jpg)
+
+## Printed Film Registration
+
+A photo eye detects the marking log on the printed film and stops it in the right position to have the printing centred on the tray. An accurate film lay out is provided for each tool to allow a proper film printing.
+
+## 印刷胶片定位
 
 光电检测印刷标记并使胶片停于正确位置以实现印刷居中。每套工装提供精确胶片版式以保证印刷。
 
-![印刷定位](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-08.jpg?height=587&width=812&top_left_y=1975&top_left_x=1167)
+![印刷定位](../assets/competitors/gmondini-trave-350/trave-350-08-registration.jpg)
 
-## 工具与工具选项
+## TOOLING & TOOL OPTIONS
 
-### 预切盖子
+## Pre Cut Lid.
+
+Lids are stored on the side of the tool. A pick and place removes the lids from the base of the pile, or the piles, via suction cups, then position the lid on the sealing profiles. Suction cups retain the lid in position. To use this tool the machine has to be predisposed with the pre cut lid shuttle.
+
+## 预切盖子
 
 盖子储存在工装侧，吸盘取放并定位于密封轮廓；需预配预切盖穿梭。
 
-### 内部切割
+## Inside Cut.
+
+This option allows the tool to cut the film inside of the perimeter of the tray. Such solution can be used to: Avoid film protruding the edge of the tray; To run cups or trays with protrusions or handles from round sealing profile, without need of keeping them aligned; To seal special tray with sealing surface below the maximum height of the tray.
+
+## 内部切割
 
 允许在托盘周界内侧切膜，用于：避免膜超边；适配带把手或突起托盘无需对齐；密封面低于托盘最高点的特殊托盘。无需预设。
 
-### 铝箔压接
+## Alum Foil Crimping.
+
+This tool cuts a lid from a reel of aluminium and crimps it around the tray. The aluminium has to be at least 40 micron thickness. No predisposition is required.
+
+## 铝箔压接
 
 从铝箔卷切盖并压接到托盘四周，铝箔≥40μm；无需预设。
 
-### 预切盖压接
+## Pre Cut Lid Crimping.
+
+Pre-shaped lids are stored in a side magazine. A pick and place system removes the lids from the base of the pile, or the piles, via suction cups, then positions the lid on the sealing profiles. Suction cups retain the lid in position. To use this tool the machine has to be predisposed with the pre cut lid shuttle.
+
+## 预切盖压接
 
 预成型盖侧仓储存，吸盘取放定位，需预配预切盖穿梭。
 
-### 双加热板
+## Double heater plate.
+
+In case of aluminium tray, to decrease the required sealing time and to reduce the sealing temperature, which damages the lid, a second heater plate is positioned in the bottom part of the tool. Sealing profile is heated from the top and the bottom, sealing time is reduced by half the time compared to a standard solution. A water cooled bottom plate avoids the transfer of the heat to the main machine body. The machine has to be predisposed to run two independent heater plates.
+
+## 双加热板
 
 用于铝托盘以缩短密封时间和降低密封温度：底部增设第二加热板，上下双面加热，时间减半；底板水冷避免热传导至机体。需机器预配双加热板独立控制。
 
-## 额外设备
+## Extra Equipment
 
-### 工具推车
+## 工具推车
+
+Positioned to the side of the tray sealer, assembled on wheels and locked in position, the bottom and top tool can be transferred into the trolley very easily. The top tool is automatically secured in position once the trolley is unlocked from the tray sealer. Now the trolley can be taken to the maintenance area. The top tool can be rotated up-side down through a gear box helping a lot cleaning and maintenance. Stainless steel construction.
 
 位于机器侧并锁定定位，上下工装可轻松转移至推车；解锁后上工装自动锁固，可翻转倒置便于清洁与维护；不锈钢结构。
 
-### 液压工具推车
+## 液压工具推车
+
+Compared to the standard trolley, it has an hydraulic levelling system. For this reason it can be adaptable in height to the different TRAVE and to the tool racks avoiding to act on handle-wheels.
 
 相较标准推车，具液压调平；可适配不同 TRAVE 与刀具架高度，无需手轮调整。
 
-### 双面刀具车
+## 双面刀具车
+
+This is a two-faced trolley with the possibility to extract the tool from both right and left handed machines. Asymmetric hooks avoid possible matching errors between trolley and machine.
 
 可从左右手位机型均可取出工装；不对称挂钩避免推车与机体匹配错误。
 
-### 刀具架
+## 刀具架
+
+To easily accommodate the different tools a tool rack, in stainless steel, is available. It can also be equipped with wheels or pre heating station.
 
 不锈钢刀具架可容纳不同工装，可选配轮子与预热站。
 
-![刀具架示意](https://cdn.mathpix.com/cropped/2025_11_15_bec209312dd40b4b67feg-10.jpg?height=712&width=919&top_left_y=971&top_left_x=1049)
+![刀具架示意](../assets/competitors/gmondini-trave-350/trave-350-10-rack.jpg)
