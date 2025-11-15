@@ -8,7 +8,7 @@ Tool sizes are 340 mm in width and 570 in length, number of trays per tool can b
 
 ## 总体描述
 
-工具宽度为 340 毫米，长度为 570 毫米，根据托盘在运行方向上的尺寸，每个工具最多可装配 4 个托盘。密封工具驱动系统和密封力生成器由完全电机械系统组成。
+模具宽度为 340 毫米，长度为 570 毫米，根据料盘在行进方向上的尺寸，每个模具最多可容纳 4 个料盘。密封模具驱动系统和密封力发生器由一套全机电系统组成。
 
 ## Tray in feed
 
@@ -16,7 +16,7 @@ A belt is receiving the trays from a previous conveyor. Trays have to arrive ali
 
 ## 托盘进料
 
-皮带从前一条输送机接收托盘。托盘必须到达时对齐且间距合适。智能皮带将独立于先前的节距，对托盘进行调速和分组，为其转移到密封站做好准备。这两条皮带可以处理随机进料速度，并允许机器保持待机状态，这对于全自动解决方案和手动操作都很重要。检测由位于行进平面上方的单个光电眼提供。
+一条传送带正在接收来自前段输送线的托盘。托盘需以对齐且间距适当的方式到达。智能传送带会调节托盘速度并分组排列，不受前段节距影响，为转移至封口工位做好准备。这两条传送带可应对随机进料速度，使设备能保持待机状态，这对全自动化解决方案和人工操作都至关重要。托盘检测通过安装在传送平面上方的单个光电传感器实现。
 
 ![进料示意](../assets/competitors/gmondini-trave-350/trave-350-01-feed.jpg)
 
@@ -32,9 +32,9 @@ To avoid tray shaking and excessive deceleration and acceleration of the product
 
 Film saving and reliable continuous run are at the base of the development of the system incorporated in this tray sealer. The reel is positioned on a cantilever shaft which is connected to a servomotor. Film is kept in tension through several shafts, which are supported both sides to avoid any misalignment. A dancing bar keeps a constant tension on the film during the unwinding. The film is pulled through the tool via two counter rotary rollers, controlled by an electrical motor, which allows smooth pulling to reach the maximum waste savings. A clutch controls the tension on the continuous running film waste rewind.
 
-## 薄膜展开与废料卷回
+## 薄膜放卷与废料收卷
 
-薄膜节省和可靠的连续运行是该托盘密封机系统开发的基础。卷轴位于与伺服电机连接的悬臂轴上。薄膜通过多个轴保持张力，这些轴两侧都有支撑，以避免任何错位。舞动杆在薄膜展开期间保持恒定的张力。薄膜通过两个反向旋转的滚筒拉过工具，由电机控制，确保平稳拉伸以达到最大废料节省。离合器控制连续运行薄膜废料卷回的张力。
+省膜设计和可靠连续运行是本托盘封口机集成系统的核心研发理念。膜卷安装于悬臂轴上，该轴与伺服电机直接相连。薄膜通过多根双端支撑的导辊保持张力，有效防止跑偏。浮动辊机构在放卷过程中持续维持薄膜张力恒定。薄膜由两根反向旋转的电动辊轮牵引通过模具，实现平稳拉伸以达到最佳省膜效果。离合器装置精确控制连续运行的废膜收卷张力。
 
 ![胶片路径](../assets/competitors/gmondini-trave-350/trave-350-02-film-1.jpg)
 
@@ -58,9 +58,9 @@ Each tray foot print has its own tool, but different tray heights are handled in
 
 A policord belt takes the sealed trays out of the guarding in a straight line.
 
-## 出料
+## 出料装置
 
-一条聚芯输送带将密封后的托盘直线输出，离开防护装置。
+一条聚氨酯同步带将密封完成的料盘沿直线输送出防护区域。
 
 ![出料示意](../assets/competitors/gmondini-trave-350/trave-350-03-outfeed-1.jpg)
 
@@ -68,9 +68,9 @@ A policord belt takes the sealed trays out of the guarding in a straight line.
 
 Clean ability and resistance to continuous wash down is one of the main characteristic of this machine.
 
-## 冲洗能力
+## 耐冲洗设计
 
-清洁能力和抗连续冲洗性是该机器的主要特点之一。
+该机器的主要特性之一是具备出色的清洁能力和持续耐冲洗性能。
 
 ## Hygiene Design
 
@@ -82,11 +82,11 @@ Clean ability and resistance to continuous wash down is one of the main characte
 
 ## 卫生设计
 
-- 避免延伸平面之间的接触
-- 没有可能积存水和污垢的封闭腔体
-- 旅行平面下方无传感器
-- 减少暴露的螺母和螺栓，以增加易清洁表面
-- 一个主电气柜和一个主机械柜
+- 避免扩展平面之间的接触。
+- 无可能积存水分和污垢的封闭空腔。
+- 行驶平面下方无传感器。
+- 减少外露的螺母和螺栓以增加易于清洁的表面。
+- 一个主电气柜和一个主机械柜。
 
 ![卫生设计细节](../assets/competitors/gmondini-trave-350/trave-350-04-hygiene.jpg)
 
@@ -98,9 +98,9 @@ Clean ability and resistance to continuous wash down is one of the main characte
 
 ## 食品级材料
 
-- 主体采用不锈钢
-- 阳极氧化铝工具
-- 聚氨酯皮带
+- 主体采用不锈钢材质。
+- 阳极氧化铝制工具。
+- 聚氨酯材质履带。
 
 ## IP Rate
 
@@ -112,15 +112,15 @@ Clean ability and resistance to continuous wash down is one of the main characte
 - IP 67 photo eyes with quick release for quick substitution
 - IP 67 proximity sensors with quick release for quick substitution
 
-## IP 等级
+## 防护等级
 
-- IP65 机械配电柜
-- IP65 电气配电柜
-- IP65 气动及服务配电柜
-- IP67 控制面板
-- IP67 控制开关
-- IP67 光电传感器（快速释放便于更换）
-- IP67 接近传感器（快速释放便于更换）
+- IP 65 机械柜。
+- IP 65 电气柜。
+- IP 65 气动及辅助设备柜。
+- IP 67 控制面板。
+- IP 67 控制开关。
+- IP67 防护等级的快速释放式光电传感器，便于快速更换。
+- IP67 防护等级的快速释放式接近传感器，便于快速更换。
 
 ## Operations
 
@@ -135,18 +135,18 @@ Start, Stop, Reset, are simply controlled with standard and user friendly switch
 
 All previous parameters are stored into recipes to allow an easy and fast change over. Increased list of parameters are due for automatic lines.
 
-## 操作
+## 操作说明
 
-启动、停止、复位只需通过标准易操作的开关控制。所有其他设置通过面板控制进行，避免误改参数影响效率。菜单驱动的参数包括：
+启动、停止、复位，这些操作都通过标准且用户友好的开关进行控制。所有其他设置则通过面板控制。这样操作人员可以自由使用机器，而无需担心误改参数影响效率。以下是通过菜单驱动的参数列表：
 
-- 密封温度
-- 密封时间
+- 封口温度
+- 封口时间
 - 真空时间（可选）
-- 气体时间（可选）
-- 胶片展开速度
-- 胶片长度（按时间）
+- 气体时间（选填）。
+- 薄膜解卷速度。
+- 薄膜长度（按时间计算）。
 
-所有参数可存储为配方，便于快速换型。自动生产线需要增加参数列表。
+所有上述参数均存储为配方，以便快速轻松地进行切换。自动生产线配方的参数列表有所扩充。
 
 ## Change Over
 
@@ -154,26 +154,28 @@ A full change over of the tray sealer can be done in ten minutes. All parameters
 
 ## 更换
 
-托盘密封机的完整更换可在十分钟内完成。所有参数均通过菜单驱动，因此操作人员的技能要求非常低。上下工具都可从机器底座中滑出。上下工具通过气动快速释放系统进行锁定和解锁。操作员无需进行任何提升操作。
+托盘封口机的全套更换可在十分钟内完成。所有参数均由菜单驱动，因此对操作技能要求极低。上下模具均可从设备机架中滑出。顶部与底部模具通过气动快速释放系统实现锁定与解锁，操作人员无需进行任何搬运作业。
 
 ## Performances (cycles per minute)
 
 The product and the packaging material will determine exactly the cycle time. However, as a reference, we consider the following table of cycles per minute.
 
-## 性能（每分钟循环数）
+## 性能参数
 
-| 产品类型 | 热封 | 预切盖 | V&G | G 密闭 | L 密闭 |
+具体循环时间由产品及包装材料决定。作为参考，我们提供以下每分钟循环次数对照表。
+
+| 产品类型 | 热封盖 | 预切盖 | V&G | G 闭合 | L 闭合 |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| 固体 | 17 | 15 | 14 | 17 | 16 |
+| 固态 | 17 | 15 | 14 | 17 | 16 |
 | 液体 | 10 | 10 | 8 | 10 | 10 |
 
 ## Maintenance
 
 Being mainly a mechanical machine, all bearings, bushing, shaft etc need to be greased regularly. Each tool has its own greasing point.
 
-## 维护保养
+## 维护
 
-作为主要的机械设备，所有轴承、衬套、轴等都需要定期润滑。每个工具都有其自己的润滑点。
+作为一台主要依靠机械运作的设备，所有轴承、衬套、轴等部件都需要定期润滑。每个工具都有其专门的润滑点。
 
 ## Mechanical Specifications
 
@@ -184,10 +186,10 @@ Being mainly a mechanical machine, all bearings, bushing, shaft etc need to be g
 
 ## 机械规格
 
-- 电动马达：Coel
-- 齿轮箱：STM
-- 鼓形电动机：Interrol
-- 皮带：Habasit
+- 电动机：Coel.
+- 变速箱：STM
+- 滚筒电机：Interrol
+- 输送带：Habasit
 
 ## Pneumatic Specifications
 
