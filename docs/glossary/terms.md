@@ -10,3 +10,89 @@
 - OEE（综合设备效率）：开动率×性能×质量的整线效率指标。
 - MTC（Tray Carrier）：MULTIVAC载具系统，适配特殊托盘的传输。
 - Platform Technology（平台技术）：G.Mondini以更换工具实现多工艺灵活运行的概念。
+- Tray（托盘）：包装产品的运输单位；通常较硬，有相对固定的形状；通常有一定深度，也可以很浅。
+
+## CRYOVAC（2024 EMEA 目录）术语（中英文）
+
+- CRYOVAC Brand Darfresh On Tray：达尔弗雷什托盘贴体包装
+- Darfresh Rollstock：达尔弗雷什卷材贴体包装
+- Sidepouch MAP Equipment：侧封袋气调包装设备
+- VFFS（Vertical Form Fill Seal）：立式成型充填封口系统
+- AutoPouch 308：AutoPouch 立式充填封口机 308 型
+- AutoPouch 2045：AutoPouch 立式充填封口机 2045 型
+- AutoPouch 3002：AutoPouch 立式充填封口机 3002 型
+- Squeeze roller：挤压辊（极小顶部空间成形）
+- Minimum headspace：最小顶部空间
+- Fitment（spout/fitment）：塑料配件（灌装口/接口）
+- Touch screen control panel：触摸屏控制面板
+- PPM（Packs Per Minute）：每分钟件数
+- Washdown（hygienic design）：可冲洗卫生设计
+- IP65 / IP66 / IP67：防护等级 65/66/67
+- PakFormance：远程系统诊断/性能平台
+- Printed film capability：印刷膜支持
+- Custom end seal：定制端封设计
+- Printed Film Registration：印刷膜定位
+- Pre-cut lid：预切盖
+- Case Ready：即售包装（鲜肉/禽肉/鱼）
+- MAP（Modified Atmosphere Packaging）：改良气调包装
+- IQF（Individually Quick Frozen）：单体快速冷冻
+- Volume plates：容积板（定量成形部件）
+- Feeder / Hopper：给料机 / 料斗
+- Outfeed conveyor：出料传送带
+
+## 海鲜增值包装技术指南（2022）术语（第121–123页）
+
+- µm（Micron/micrometer）：微米；百万分之一米
+- ACMSF（Advisory Committee on the Microbiological Safety of Food）：食品微生物安全咨询委员会
+- ALU（Aluminium）：铝
+- APET（Amorphous‑polyethylene terephthalate）：非晶聚对苯二甲酸乙二醇酯
+- APR（PCR）（Association of Plastic Recyclers – Post Consumer Resin）：塑料回收商协会（消费后树脂）认证项目
+- AW（Water activity）：水分活度
+- BDF（Barrier display film）：阻隔展示膜（Sealed Air 品牌）
+- C（Celsius）：摄氏度
+- CCPs（Critical Control Points）：关键控制点
+- CN（laminate structures）：层压结构材料
+- CPET（Crystalline PET）：结晶聚对苯二甲酸乙二醇酯
+- CU（Consumer unit）：消费单元
+- EC（European Commission）：欧盟委员会
+- EFSA（European Food Safety Authority）：欧洲食品安全局
+- EMEA（Europe, Middle East, and Africa）：欧洲/中东/非洲
+- EPS（Expanded polystyrene）：发泡聚苯乙烯
+- EU（European Union）：欧盟
+- EVOH（Ethylene‑vinyl alcohol polymer）：乙烯‑乙烯醇共聚物
+- EZO（Easy open）：易开启
+- FAO（Food and Agriculture Organization）：联合国粮农组织
+- HFFS（Horizontal form‑fill‑seal）：卧式成型‑充填‑封口
+- HPP（High pressure processing）：高压处理
+- HT（Heat treatment）：热处理（可微波或可巴氏杀菌）
+- IC（Internal/inside cutting）：内部切割
+- IU（Industrial unit）：工业单元
+- KPI（Key performance indicator）：关键绩效指标
+- LCA（Life cycle assessment）：生命周期评估
+- LDPE（Low‑density polyethylene）：低密度聚乙烯
+- MAP（Modified atmosphere packaging）：气调包装
+- MW（Microwave）：微波炉
+- NPD（New product development）：新产品开发
+- OC（External/outside cutting）：外切
+- ODA（Cryovac OptiDure bags）：Cryovac® 品牌 OptiDure™ 袋
+- OSF（Ovenable shrink films）：可烘烤收缩膜
+- PA（Polyamide）：聚酰胺
+- PC（Industrial panel control）：工业面板控制
+- PCR（Post consumer recycled）：消费后回收
+- PE（Polyethylene）：聚乙烯
+- PET（Polyester）：聚酯
+- POS（Point of sale）：销售点
+- PP（Polypropylene）：聚丙烯
+- QR（Quick response code）：快速响应码（二位条码）
+- R&D（Research and development）：研究与开发
+- RIC（Resin identification codes）：树脂识别代码
+- rPET（Recycled polyester）：再生聚酯
+- SDG（UN’s Sustainable Development Goals）：联合国可持续发展目标
+- SKIN（Skin packaging）：贴体包装
+- THF（Thermoformed）：热成型
+- TMA（Trimethylamine）：三甲胺
+- TOPACO（To Pack Cost）：包装成本
+- USD（United States dollar）：美元
+- VFFS（Vertical form‑fill‑seal）：立式成型‑充填‑封口
+- VP（Vacuum packed）：真空包装
+- VR/VS（Vacuum bag equipment models）：真空袋设备型号
