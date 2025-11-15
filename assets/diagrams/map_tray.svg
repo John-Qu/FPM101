@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="160">
+  <rect x="20" y="60" width="260" height="60" fill="#e0f7fa" stroke="#00796b" stroke-width="2"/>
+  <rect x="40" y="80" width="80" height="30" fill="#ffcdd2" stroke="#b71c1c"/>
+  <rect x="130" y="80" width="80" height="30" fill="#ffe082" stroke="#f57f17"/>
+  <line x1="20" y1="60" x2="280" y2="60" stroke="#1976d2" stroke-width="4"/>
+  <text x="30" y="40" font-size="12" fill="#1976d2">抽真空→充入CO2/N2（降低O2）</text>
+  <text x="30" y="150" font-size="12" fill="#00796b">托盘（Tray）</text>
+</svg>

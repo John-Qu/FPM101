@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        <link rel="canonical" href="https://John-Qu.github.io/FPM101/training/packaging-quickstart/">
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>包装技术速成讲义 - PackMachine101</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">PackMachine101</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">市场</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../market/ready-meals/" class="dropdown-item">生鲜与预制菜</a>
+</li>
+                                    
+<li>
+    <a href="../../market/customer-scenarios/" class="dropdown-item">客户场景与渠道诉求</a>
+</li>
+                                    
+<li>
+    <a href="../../market/pack-categories/" class="dropdown-item">包装对象分类</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">技术</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../technology/packaging-basics/" class="dropdown-item">包装技术速成</a>
+</li>
+                                    
+<li>
+    <a href="../../technology/packaging-forms/" class="dropdown-item">包装形式科普</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">设备</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../equipment/system-architecture/" class="dropdown-item">整线架构</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">产品</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../product/ts350-mapping/" class="dropdown-item">TS350映射</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">竞品</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../competitors/overview/" class="dropdown-item">总览对比</a>
+</li>
+                                    
+<li>
+    <a href="../../competitors/gmondini-trave/" class="dropdown-item">G.Mondini TRAVE</a>
+</li>
+                                    
+<li>
+    <a href="../../competitors/multivac-t700/" class="dropdown-item">MULTIVAC T700</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">培训</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../outline/" class="dropdown-item">四小时提纲</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active" aria-current="page">包装技术速成讲义</a>
+</li>
+                                    
+<li>
+    <a href="../equipment-line-lecture/" class="dropdown-item">设备方案与整线讲义</a>
+</li>
+                                    
+<li>
+    <a href="../competitor-lecture/" class="dropdown-item">竞品速览与差异化话术</a>
+</li>
+                                    
+<li>
+    <a href="../requirements-workshop/" class="dropdown-item">需求澄清演练：方法与场景卡</a>
+</li>
+                                    
+<li>
+    <a href="../requirements-scenarios/" class="dropdown-item">需求澄清演练：场景卡</a>
+</li>
+                                    
+<li>
+    <a href="../qa/" class="dropdown-item">高频问答</a>
+</li>
+                                    
+<li>
+    <a href="../casecards/" class="dropdown-item">案例卡片</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item">
+                                <a href="../../glossary/terms/" class="nav-link">词汇</a>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                            <li class="nav-item">
+                                <a rel="prev" href="../outline/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../equipment-line-lecture/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="https://github.com/John-Qu/FPM101/edit/master/docs/training/packaging-quickstart.md" class="nav-link"><i class="fa-brands fa-github"></i> Edit on GitHub</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#mapvspemap" class="nav-link">包装技术速成讲义（MAP/VSP/EMAP、残氧/泄漏、材料与切边）</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#_1" class="nav-link">管理者共识问题（开场）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_2" class="nav-link">工艺总览与选型逻辑</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_3" class="nav-link">指标与验收（可直接用于评审）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#trave-350" class="nav-link">TRAVE 350（平台能力与包装形式）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_4" class="nav-link">材料与切边（决策关注点）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_5" class="nav-link">生鲜/预制菜场景映射（决策提示）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_6" class="nav-link">风险与对策（管理视角）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_7" class="nav-link">面向高层的讨论提纲（可复述）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-bs-level="2"><a href="#_8" class="nav-link">行动清单（落地）</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="mapvspemap">包装技术速成讲义（MAP/VSP/EMAP、残氧/泄漏、材料与切边）</h1>
+<h2 id="_1">管理者共识问题（开场）</h2>
+<ul>
+<li>我们要用包装解决什么经营问题：损耗、退货、呈现、效率、合规、可持续？</li>
+<li>不同产品与渠道采用何工艺（MAP/VSP/EMAP），各自的KPI与风险边界是什么？</li>
+<li>面向未来的投资：选择具备快速换型、纸基兼容与整线集成的托盒封口平台。</li>
+</ul>
+<h2 id="_2">工艺总览与选型逻辑</h2>
+<ul>
+<li>MAP：抽真空+充气混配，降低<code>O2</code>、调控<code>CO2/N2</code>以延长货架期；适合鲜肉、海鲜、熟食分装与即食餐。</li>
+<li>VSP（真空肌肤）：上膜紧贴产品轮廓并与托盘热封，呈现度高、保形好、提升高客单价产品的陈列表现。</li>
+<li>EMAP：依靠膜的透气性或微孔实现气体自调节，常用于蔬果与鲜切，关注冷凝与呼吸强度匹配。</li>
+<li>决策路径：产品属性→渠道场景→目标（货架期/呈现/效率/成本）→工艺→材料→线体配置→KPI与验收→TCO评估。</li>
+</ul>
+<h2 id="_3">指标与验收（可直接用于评审）</h2>
+<ul>
+<li>产能与节拍：<code>托盘/分 × 道数 × 稼动率</code>；记录稳定运行时长与停机原因（OEE视角）。</li>
+<li>残氧与泄漏：残氧常见目标<code>≤0.5–1.0%</code>；泄漏测试（压力差/染色液/示踪气体）；设定抽检频率与留样策略。</li>
+<li>换型与柔性：刀具/格式切换时间与恢复稳定节拍时间；托盘尺寸范围与材料兼容性。</li>
+<li>成本与可持续：膜利用率与骨架废料、纸基替换比例、能耗与备件寿命。</li>
+<li>卫生与清洗：可清洗结构、排水与死角控制；清洗时间可量化纳入验收。</li>
+</ul>
+<h2 id="trave-350">TRAVE 350（平台能力与包装形式）</h2>
+<ul>
+<li>平台技术：通过更换工具在同一平台运行多种包装技术（MAP、VSP、纸基等），提升投资回报与灵活性。</li>
+<li>包装形式：<ul>
+<li>MAP：标准托盒气调封口，适配多材料托盘与多规格模具。</li>
+<li>VSP/皮肤包装：支持基于托盘的真空皮肤方案；强调呈现与保形。</li>
+<li>纸基解决方案：纸板背衬与可回收方案，提升外观与可持续形象。</li>
+</ul>
+</li>
+<li>切边与膜利用：强调高性能切边与降低骨架废料；在皮肤包装场景下可实现更高膜利用率。</li>
+<li>卫生与清洁：整机卫生设计与可清洗架构，降低食安风险与保养成本。</li>
+<li>控制与集成：可选工业控制架构与整线集成（去垛、贴标、检漏、装箱与码垛）。</li>
+<li>性能表述：<ul>
+<li>节拍与道数：按模具与配置扩展，支持单/双/多道；以项目KPI与验收清单为准。</li>
+<li>换型效率：工具化换型与格式灵活；目标是在可控时间窗内恢复稳定节拍。</li>
+<li>纸基兼容：在呈现与可持续上具优势，需与材料与切边方案一并验证耐潮与强度。</li>
+</ul>
+</li>
+</ul>
+<h2 id="_4">材料与切边（决策关注点）</h2>
+<ul>
+<li>托盘材料：塑料/铝/纸基/玻璃/陶瓷；关注变形与支撑强度、膜匹配与切边方式。</li>
+<li>膜材选择：厚度、涂层与防雾、防穿刺；与工艺（MAP/VSP/EMAP）协同验证。</li>
+<li>切边方式：<ul>
+<li>常规切边：关注边缘完整性与防泄漏。</li>
+<li>减废切边：优化膜利用与骨架废料；纸基/皮肤包装需验证切边质量与呈现。</li>
+</ul>
+</li>
+</ul>
+<h2 id="_5">生鲜/预制菜场景映射（决策提示）</h2>
+<ul>
+<li>生鲜蛋白/海鲜：优先MAP，追求残氧与密封稳定；高端陈列可用VSP提升呈现与保形。</li>
+<li>熟食与即食餐：常压或MAP，重视二次包装与复热便利；标签与追溯清晰。</li>
+<li>蔬果鲜切：EMAP/透气膜，关注水汽与冷凝管理；包装需防雾与防挤压。</li>
+<li>纸基方案：提升可持续与外观，但在湿冷链下需重点验证耐潮与强度。</li>
+</ul>
+<h2 id="_6">风险与对策（管理视角）</h2>
+<ul>
+<li>纸基耐潮与强度不足：设置占位测试与跌落试验；优化膜/切边与防潮涂层。</li>
+<li>换型影响OEE：优化刀具与快速锁紧；固化SOP与节拍恢复时间窗。</li>
+<li>残氧与泄漏不稳定：完善气体混配与密封参数窗；抽检与留样制度化。</li>
+<li>卫生与清洗时间长：结构排水与死角审查；量化清洗时间纳入验收。</li>
+</ul>
+<h2 id="_7">面向高层的讨论提纲（可复述）</h2>
+<ul>
+<li>我们在哪些SKU上需要VSP的呈现溢价，在哪些SKU更应押注MAP的货架期？</li>
+<li>为支持促销与季节性，我们的换型与道数配置能否保证节拍与OEE？</li>
+<li>纸基方案的ROI与品牌价值如何量化（材料成本、废膜减量、客户感知）？</li>
+<li>整线集成是否覆盖去垛/称重/检漏/贴标/装箱与追溯？哪部分是未来扩展位？</li>
+</ul>
+<h2 id="_8">行动清单（落地）</h2>
+<ul>
+<li>用 <code>templates/customer_requirements.md</code> 采集目标残氧、泄漏测试、托盘尺寸与换型频率。</li>
+<li>用 <code>templates/validation_checklist.md</code> 设定节拍、残氧与泄漏的验收指标与抽检策略。</li>
+<li>在 <code>docs/product/ts350-mapping.md</code> 对齐TS350的场景适配与性能边界，并形成对外话术。</li>
+<li>更新 <code>data/competitors/*.yml</code>，持续完善竞品参数与参考链接，自动生成对比表。</li>
+</ul></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+
+        <div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>

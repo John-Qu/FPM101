@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="160">
+  <rect x="20" y="60" width="260" height="60" fill="#f1f8e9" stroke="#33691e" stroke-width="2"/>
+  <line x1="20" y1="60" x2="280" y2="60" stroke="#8bc34a" stroke-width="4"/>
+  <circle cx="80" cy="90" r="15" fill="#aed581" stroke="#558b2f"/>
+  <text x="100" y="95" font-size="12" fill="#33691e">呼吸</text>
+  <text x="30" y="40" font-size="12" fill="#33691e">透气膜/微孔实现气氛平衡（EMAP）</text>
+  <text x="30" y="150" font-size="12" fill="#33691e">托盘（Tray）</text>
+</svg>
