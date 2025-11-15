@@ -15,18 +15,18 @@
 
 ## G.MONDINI TRAVE平台与TRAVE 350（25’）
 - 平台技术（Platform Technology）：
-  - 通过更换工具在同一平台运行多种包装技术（MAP、VSP、纸基等），增强投资回报
-  - 高性能切边与膜利用，强调零骨架与减废理念（如皮肤包装相关创新）
+    - 通过更换工具在同一平台运行多种包装技术（MAP、VSP、纸基等），增强投资回报
+    - 高性能切边与膜利用，强调零骨架与减废理念（如皮肤包装相关创新）
 - 包装形式：
-  - MAP：延长货架期，适配多材料托盘；残氧与泄漏指标为核心
-  - VSP（皮肤包装）：提升呈现与保形，适合高客单价蛋白与冷冻防冻灼
-  - 纸基/可持续：纸板背衬与可回收方案，强调品牌与环保形象
+    - MAP：延长货架期，适配多材料托盘；残氧与泄漏指标为核心
+    - VSP（皮肤包装）：提升呈现与保形，适合高客单价蛋白与冷冻防冻灼
+    - 纸基/可持续：纸板背衬与可回收方案，强调品牌与环保形象
 - 卫生与清洁：整机卫生设计与排水；可清洗与卫生死角控制
 - 控制与集成：工业控制与整线模块对接（去垛、贴标、检漏、装箱与码垛）
 - 管理者关注的性能表述：
-  - 节拍与道数：按项目与模具配置，支持单/双/多道（以项目KPI为准）
-  - 换型效率：工具化换型与格式柔性；在可控时间窗内恢复稳定节拍
-  - 膜利用与减废：皮肤与纸基方案中优化膜利用、降低废膜骨架
+    - 节拍与道数：按项目与模具配置，支持单/双/多道（以项目KPI为准）
+    - 换型效率：工具化换型与格式柔性；在可控时间窗内恢复稳定节拍
+    - 膜利用与减废：皮肤与纸基方案中优化膜利用、降低废膜骨架
 - 参考链接：
   - TRAVE平台概述：https://www.gmondini.com/solution/trave
   - Vacuum Skin与标准皮肤包装：https://www.gmondini.com/technology/cat/vacuum-skin / https://www.gmondini.com/technology/standard-skin
@@ -43,21 +43,21 @@
   - 托盘适配：通过MTC提升特殊托盘的可运行性与质量一致性
   - 配置灵活：多模具尺寸与模块化选件，便于线体扩展
 - 参考链接：
-  - 自动托盒封口机与T700概述：https://my.multivac.com/en/solutions/packaging-solutions/traysealers/automatic-high-output-traysealers/
-  - T700产品页（美区）：https://us.multivac.com/en/solutions/products/categories/product/traysealer/automatic-traysealers/t-700/
+    - 自动托盒封口机与T700概述：https://my.multivac.com/en/solutions/packaging-solutions/traysealers/automatic-high-output-traysealers/
+    - T700产品页（美区）：https://us.multivac.com/en/solutions/products/categories/product/traysealer/automatic-traysealers/t-700/
 
 ## ULMA TSA 875（15’）
 - 机型能力：面向规则托盘的自动托盒封口机，支持MAP与真空包装
 - 公示节拍参考（以ULMA官网描述为准）：
-  - Cut&Seal：最高约22 cycles/min
-  - MAP：最高约19 cycles/min
+    - Cut&Seal：最高约22 cycles/min
+    - MAP：最高约19 cycles/min
 - 整线适配：托盘臂式输送、可集成中高产能线体；支持ULMA UST密封测试
 - 应用案例与扩展：
-  - 针对大件高侧托盘的HT版本（高侧托盘场景）
-  - 海外整线项目参考与全线集成能力
+    - 针对大件高侧托盘的HT版本（高侧托盘场景）
+    - 海外整线项目参考与全线集成能力
 - 参考链接：
-  - TSA 875机型页：https://www.ulmapackaging.com/en/packaging-machines/traysealing/tsa-875
-  - HT版本新闻稿：https://www.ulmapackaging.com/en/news/new-tsa-tsa875-ht-traysealer-for-fresh-products-in-high-sided-trays
+    - TSA 875机型页：https://www.ulmapackaging.com/en/packaging-machines/traysealing/tsa-875
+    - HT版本新闻稿：https://www.ulmapackaging.com/en/news/new-tsa-tsa875-ht-traysealer-for-fresh-products-in-high-sided-trays
 
 ## TS350差异化话术（15’）
 - 场景价值：
@@ -71,16 +71,16 @@
   - 控制与集成：PLC/伺服与数据采集，支持OEE与停机原因统计，远程诊断与整线对接
 - TCO与服务：能耗与备件友好、维护周期与易损件寿命可预测，服务响应与备件可得性
 - 竞品对话术：
-  - 对TRAVE 350：强调平台多工艺与减废优势的同类能力映射；以项目KPI对齐节拍与换型目标
-  - 对T700：在特殊托盘场景说明MTC的适用边界；主打常规托盘的效率与整线协同
-  - 对TSA 875：以公开节拍与MAP能力为基准，强调TS350在纸基/皮肤呈现与换型柔性的优势（以项目验证为准）
+    - 对TRAVE 350：强调平台多工艺与减废优势的同类能力映射；以项目KPI对齐节拍与换型目标
+    - 对T700：在特殊托盘场景说明MTC的适用边界；主打常规托盘的效率与整线协同
+    - 对TSA 875：以公开节拍与MAP能力为基准，强调TS350在纸基/皮肤呈现与换型柔性的优势（以项目验证为准）
 
 ## Q&A与行动项（5’）
 - Q&A方向：
-  - 哪些SKU应以VSP提升陈列溢价，哪些SKU以MAP稳货架期与退货？
-  - 我们的换型频率与时间目标，是否与道数组合保证OEE？
-  - 纸基替换的ROI与品牌价值如何量化？
+    - 哪些SKU应以VSP提升陈列溢价，哪些SKU以MAP稳货架期与退货？
+    - 我们的换型频率与时间目标，是否与道数组合保证OEE？
+    - 纸基替换的ROI与品牌价值如何量化？
 - 行动项：
-  - 用 `templates/customer_requirements.md` 采集目标与约束
-  - 用 `templates/validation_checklist.md` 固化节拍与质量验收
-  - 更新 `data/competitors/*.yml` 与 `docs/competitors/overview.md`，持续完善对比
+    - 用 `templates/customer_requirements.md` 采集目标与约束
+    - 用 `templates/validation_checklist.md` 固化节拍与质量验收
+    - 更新 `data/competitors/*.yml` 与 `docs/competitors/overview.md`，持续完善对比

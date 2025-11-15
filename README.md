@@ -32,20 +32,20 @@
   cd FPM101
   ```
 - 浏览内容：
-  - 阅读 `docs/technology/packaging-basics.md` 了解 MAP/VSP/EMAP 基础
-  - 查看 `docs/competitors/*.md` 了解竞品特性与参考链接
-  - 打开 `training/outline.md` 获取四小时培训结构与节奏
+    - 阅读 `docs/technology/packaging-basics.md` 了解 MAP/VSP/EMAP 基础
+    - 查看 `docs/competitors/*.md` 了解竞品特性与参考链接
+    - 打开 `training/outline.md` 获取四小时培训结构与节奏
 - 使用模板：
-  - 复制 `templates/competitor.md` 作为新竞品档案的起点
-  - 在 `data/competitors/*.yml` 录入结构化参数（含来源链接）
-  - 用 `templates/customer_requirements.md` 做客户需求澄清
-  - 按 `templates/validation_checklist.md` 进行测试与验收
+    - 复制 `templates/competitor.md` 作为新竞品档案的起点
+    - 在 `data/competitors/*.yml` 录入结构化参数（含来源链接）
+    - 用 `templates/customer_requirements.md` 做客户需求澄清
+    - 按 `templates/validation_checklist.md` 进行测试与验收
 
 ## 数据约定
 - 竞品数据以 YAML 存放于 `data/competitors/`，字段示例：
-  - `brand`, `series`, `model`, `packaging`, `lanes`, `throughput_trays_per_min`
-  - `residual_o2_target`, `leak_rate_target`, `tool_change_time_min`
-  - `materials`, `controls`, `utilities`, `maintenance`, `references`
+    - `brand`, `series`, `model`, `packaging`, `lanes`, `throughput_trays_per_min`
+    - `residual_o2_target`, `leak_rate_target`, `tool_change_time_min`
+    - `materials`, `controls`, `utilities`, `maintenance`, `references`
 - 每条数据需附权威来源链接与采集时间；不明参数暂以 `tbd` 占位。
 
 ## 培训材料使用
@@ -56,12 +56,12 @@
 
 ## 参与方式
 - 提交信息与改动：
-  - 新建分支并提交 PR，补充 `docs/` 或 `data/` 内容；引用来源必填。
-  - Issue 模式：提出新增词条、补充竞品参数、修正错误或新增案例。
+    - 新建分支并提交 PR，补充 `docs/` 或 `data/` 内容；引用来源必填。
+    - Issue 模式：提出新增词条、补充竞品参数、修正错误或新增案例。
 - 贡献规范：
-  - 使用模板与既有目录结构；保持术语一致与中英文对照。
-  - 数据变更附来源链接与采集日期；客户敏感信息需脱敏。
-  - 提交信息以“事实+来源”为准，避免未经验证的推测。
+    - 使用模板与既有目录结构；保持术语一致与中英文对照。
+    - 数据变更附来源链接与采集日期；客户敏感信息需脱敏。
+    - 提交信息以“事实+来源”为准，避免未经验证的推测。
 
 ## 隐私与合规
 - 不公开客户隐私与商业敏感信息；必要时统一脱敏与审核。
