@@ -2,6 +2,7 @@ site_name: PackMachine101
 site_url: https://John-Qu.github.io/FPM101/
 repo_url: https://github.com/John-Qu/FPM101
 nav:
+  - 首页: index.md
   - 市场:
       - 客户场景与渠道诉求: market/customer-scenarios.md
       - 行业与品类入口: market/pack-categories.md
