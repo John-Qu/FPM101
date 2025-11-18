@@ -2,31 +2,28 @@ site_name: PackMachine101
 site_url: https://John-Qu.github.io/FPM101/
 repo_url: https://github.com/John-Qu/FPM101
 nav:
-  - 市场:
-      - 生鲜与预制菜: market/ready-meals.md
+  - 销售:
       - 客户场景与渠道诉求: market/customer-scenarios.md
-      - 包装对象分类: market/pack-categories.md
-  - 技术:
-      - 包装技术速成: technology/packaging-basics.md
-      - 包装形式科普: technology/packaging-forms.md
-  - 设备:
+      - 包装技术速成讲义: sales/packaging-quickstart.md
+      - 竞品速览与差异化话术: sales/competitor-lecture.md
+      - 行业与品类入口: market/pack-categories.md
+      - 生鲜与预制菜: market/ready-meals.md
+      - 案例卡片: sales/casecards.md
+      - 高频问答: sales/qa.md
+      - 四小时提纲: sales/outline.md
+      - 需求澄清演练：方法与场景卡: sales/requirements-workshop.md
+      - 需求澄清演练：场景卡: sales/requirements-scenarios.md
+  - 设计:
       - 整线架构: equipment/system-architecture.md
-  - 产品:
+      - 包装形式科普: technology/packaging-forms.md
       - TS350映射: product/ts350-mapping.md
+      - 设备方案与整线讲义: design/equipment-line-lecture.md
+      - 术语词汇: glossary/terms.md
   - 竞品:
     - 总览对比: competitors/overview.md
     - G.Mondini TRAVE: competitors/gmondini-trave.md
     - G.Mondini TRAVE-350: competitors/gmondini-trave-350.md
     - MULTIVAC T700: competitors/multivac-t700.md
-  - 培训:
-      - 四小时提纲: training/outline.md
-      - 包装技术速成讲义: training/packaging-quickstart.md
-      - 设备方案与整线讲义: training/equipment-line-lecture.md
-      - 竞品速览与差异化话术: training/competitor-lecture.md
-      - 需求澄清演练：方法与场景卡: training/requirements-workshop.md
-      - 需求澄清演练：场景卡: training/requirements-scenarios.md
-      - 高频问答: training/qa.md
-      - 案例卡片: training/casecards.md
   - 词汇: glossary/terms.md
   - 本地:
       - 本地私有索引页: private/local-private-index.md
