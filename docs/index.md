@@ -6,34 +6,34 @@
   <div class="hero-title">销售速览 × 设计积累</div>
   <div class="hero-sub">以客户问题为导向（成本/空间/瓶颈/合规），以工程细节为抓手（模具/膜利用率/放料/贴标打码/整线衔接）</div>
   <div class="hero-actions">
-    <a class="btn" href="market/customer-scenarios/">销售：场景与诉求</a>
-    <a class="btn" href="sales/packaging-quickstart/">销售：包装技术速成</a>
-    <a class="btn" href="equipment/system-architecture/">设计：整线与前后道</a>
-    <a class="btn" href="technology/packaging-forms/">设计：材料与工艺</a>
+    <a class="btn" href="market/customer-scenarios/">市场：场景与诉求</a>
+    <a class="btn" href="glossary/packaging-forms/">词汇：包装形式科普</a>
+    <a class="btn" href="product/system-architecture/">产品：整线与前后道</a>
+    <a class="btn" href="product/ts350-mapping/">产品：TS350映射与边界</a>
   </div>
   <div class="hero-actions">
-    <a class="btn" href="competitors/overview/">销售：竞品速览与话术</a>
-    <a class="btn" href="product/ts350-mapping/">设计：TS350映射与边界</a>
-    <a class="btn" href="sales/qa/">销售/设计：高频问答与验收</a>
-    <a class="btn" href="sales/casecards/">销售：案例卡片</a>
+    <a class="btn" href="product/competitors.md">产品：竞品总览与档案</a>
+    <a class="btn" href="market/pack-categories/">市场：按品类浏览</a>
+    <a class="btn" href="market/faq/">市场：高频问答与验收</a>
+    <a class="btn" href="market/casecards/">市场：案例卡片</a>
   </div>
 </div>
 
 ## 销售关心的项目（落地）
 
 - 客户场景与渠道诉求：`market/customer-scenarios/`
-- 包装技术速成（MAP/VSP/纸基与残氧/泄漏）：`sales/packaging-quickstart/`
-- 竞品速览与差异化话术：`sales/competitor-lecture/` · `competitors/overview/`
-- 指标、验收与高频问答：`sales/qa/`
+- 包装技术速成（MAP/VSP/纸基与残氧/泄漏）：`glossary/packaging-basics/`
+- 竞品速览与差异化话术：`product/competitors-lecture/` · `product/competitors/`
+- 指标、验收与高频问答：`market/faq/`
 - 行业与品类入口：`market/pack-categories/` · `market/ready-meals/`
-- 案例卡片（场景化演示）：`sales/casecards/`
+- 案例卡片（场景化演示）：`market/casecards/`
 
 ## 设计积累与知识库（工程）
 
-- 整线架构与前后道衔接（存料区/贴标打码/追溯/检漏）：`equipment/system-architecture/`
-- 包装形式与材料选择（PP/PE/PET/EVOH 等）：`technology/packaging-forms/`
+- 整线架构与前后道衔接（存料区/贴标打码/追溯/检漏）：`product/system-architecture/`
+- 包装形式与材料选择（PP/PE/PET/EVOH 等）：`glossary/packaging-forms/`
 - 机型能力映射与边界（格式/刀具/模具/膜利用率）：`product/ts350-mapping/`
-- 设备方案与整线讲义（工程细节与接口）：`design/equipment-line-lecture/`
+- 设备方案与整线讲义（工程细节与接口）：`product/equipment-line-lecture/`
 - 术语词汇（中英文对照）：`glossary/terms/`
 
 ## 我们聚焦的决策与验收语言

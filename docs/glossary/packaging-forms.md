@@ -9,7 +9,7 @@
 - 适用：即食餐、熟食、部分短保SKU；强调成本与效率。
 - 关键点：密封完整性、膜与托盘匹配、标签与追溯。
 
-![常压封口示意](../assets/diagrams/lidding.svg)
+![常压封口示意](assets/diagrams/lidding.svg)
 
 参考与实物照片：
 - 热封/Just Sealed（官方）：https://www.gmondini.com/
@@ -19,7 +19,7 @@
 - 适用：鲜肉、海鲜、熟食分装、部分即食餐；以残氧与泄漏为核心指标。
 - 关键点：气体配比与稳定性、残氧目标（常见≤0.5–1.0%）、泄漏测试与抽检频率。
 
-![MAP示意](../assets/diagrams/map_tray.svg)
+![MAP示意](assets/diagrams/map_tray.svg)
 
 参考与实物照片：
 - 技术归档（含MAP简介与适用品类）：https://www.gmondini.com/platform-technology
@@ -29,7 +29,7 @@
 - 适用：高客单价蛋白、海鲜、精致熟食；呈现度高、保形好。
 - 关键点：膜贴合与穿刺强度、切边质量、陈列与品牌视觉。
 
-![VSP示意](../assets/diagrams/vsp_skin.svg)
+![VSP示意](assets/diagrams/vsp_skin.svg)
 
 参考与实物照片：
 - Vacuum Skin 技术页：https://www.gmondini.com/technology/cat/vacuum-skin
@@ -41,7 +41,7 @@
 - 适用：蔬果、鲜切；关注冷凝与水汽，防雾与防挤压设计。
 - 关键点：膜透气参数与产品呼吸强度匹配、防雾处理与支撑结构。
 
-![EMAP示意](../assets/diagrams/emap_breath.svg)
+![EMAP示意](assets/diagrams/emap_breath.svg)
 
 参考与实物照片：
 - 技术归档（含EMAP概述）：https://www.gmondini.com/platform-technology
@@ -51,7 +51,7 @@
 - 适用：品牌强调可持续与陈列美观的SKU。
 - 关键点：耐潮与强度验证、切边与膜利用率、材料合规与标签。
 
-![纸基方案示意](../assets/diagrams/paperboard.svg)
+![纸基方案示意](assets/diagrams/paperboard.svg)
 
 参考与实物照片：
 - Paperseal® SKIN：https://www.gmondini.com/technology/paperseal-skin
@@ -76,7 +76,7 @@
 - 成本与可持续：膜利用率与骨架废料、纸基替换比例、能耗与备件。
 
 ## 延伸阅读
-- 基础速成：`docs/technology/packaging-basics.md`
+- 基础速成：`docs/glossary/packaging-basics.md`
 - 客户场景与渠道诉求：`docs/market/customer-scenarios.md`
 - TS350映射：`docs/product/ts350-mapping.md`
 

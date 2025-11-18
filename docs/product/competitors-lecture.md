@@ -83,4 +83,4 @@
 - 行动项：
     - 用 `templates/customer_requirements.md` 采集目标与约束
     - 用 `templates/validation_checklist.md` 固化节拍与质量验收
-    - 更新 `data/competitors/*.yml` 与 `docs/competitors/overview.md`，持续完善对比
+    - 更新 `data/competitors/*.yml` 与 `docs/product/competitors.md`，持续完善对比
