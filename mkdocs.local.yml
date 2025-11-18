@@ -17,6 +17,11 @@ nav:
       - 术语词汇: glossary/terms.md
       - 包装技术速成: glossary/packaging-basics.md
       - 包装形式科普: glossary/packaging-forms.md
+  - 行动手册:
+      - 客户需求采集模板: playbooks/customer-requirements.md
+      - 测试与验收清单: playbooks/validation-checklist.md
+      - 包装技术速成讲义: playbooks/packaging-quickstart.md
+      - 销售问答脚本: playbooks/qa.md
   - 本地:
       - 本地私有索引页: private/local-private-index.md
 theme:

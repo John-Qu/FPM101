@@ -58,7 +58,7 @@
 - 整线集成是否覆盖去垛/称重/检漏/贴标/装箱与码垛？哪部分是未来扩展位？
 
 ## 行动清单（落地）
-- 用 `templates/customer_requirements.md` 采集目标残氧、泄漏测试、托盘尺寸与换型频率。
-- 用 `templates/validation_checklist.md` 设定节拍、残氧与泄漏的验收指标与抽检策略。
+- 用 `../playbooks/customer-requirements.md` 采集目标残氧、泄漏测试、托盘尺寸与换型频率。
+- 用 `../playbooks/validation-checklist.md` 设定节拍、残氧与泄漏的验收指标与抽检策略。
 - 在 `docs/product/ts350-mapping.md` 对齐TS350的场景适配与性能边界，并形成对外话术。
 - 更新 `data/competitors/*.yml`，持续完善竞品参数与参考链接，自动生成对比表。

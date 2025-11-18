@@ -1,9 +1,10 @@
 # 食品包装形式科普（托盒封口机相关）
 
 ## 总览
-- 托盒封口（Tray Sealing）可实现：常压封口（Lidding）、MAP改良气调、VSP真空肌肤、EMAP平衡气调、纸基与可持续方案。
+- 托盒封口（Tray Sealing）可实现：常压封口（Lidding）、MAP 改良气调、VSP 真空肌肤、EMAP 平衡气调、纸基与可持续方案。
 - 选择依据：产品属性（呼吸/水分/形态）、渠道场景（商超/餐饮/到家）、经营目标（货架期/呈现/效率/成本/合规）。
 
+<a id="常压封口-lidding"></a>
 ## 常压封口（Lidding）
 - 定义：不抽真空、不充气，在托盘表面热封上膜形成密闭或半密闭。
 - 适用：即食餐、熟食、部分短保SKU；强调成本与效率。
@@ -14,6 +15,7 @@
 参考与实物照片：
 - 热封/Just Sealed（官方）：https://www.gmondini.com/
 
+<a id="MAP-改良气调"></a>
 ## MAP（Modified Atmosphere Packaging）改良气调
 - 定义：抽真空后充入混合气体（CO2/N2），降低O2以延长货架期。
 - 适用：鲜肉、海鲜、熟食分装、部分即食餐；以残氧与泄漏为核心指标。
@@ -24,6 +26,7 @@
 参考与实物照片：
 - 技术归档（含MAP简介与适用品类）：https://www.gmondini.com/platform-technology
 
+<a id="VSP-真空肌肤"></a>
 ## VSP（Vacuum Skin Packaging）真空肌肤（Skin）
 - 定义：上膜在真空下紧贴产品轮廓，与托盘热封，形成“第二层皮肤”。
 - 适用：高客单价蛋白、海鲜、精致熟食；呈现度高、保形好。
@@ -36,6 +39,7 @@
 - Standard Skin：https://www.gmondini.com/technology/standard-skin
 - Darfresh® on Tray：https://www.gmondini.com/technology/dot
 
+<a id="EMAP-平衡气调"></a>
 ## EMAP（Equilibrium MAP）平衡气调
 - 定义：依靠膜的透气性或微孔实现气体自调节，与呼吸型产品达成平衡。
 - 适用：蔬果、鲜切；关注冷凝与水汽，防雾与防挤压设计。
@@ -46,6 +50,7 @@
 参考与实物照片：
 - 技术归档（含EMAP概述）：https://www.gmondini.com/platform-technology
 
+<a id="纸基与可持续方案"></a>
 ## 纸基与可持续方案（Paper-based / Skin on Board）
 - 定义：使用纸板作为承载或背衬，与膜热封；可提升可回收与外观质感。
 - 适用：品牌强调可持续与陈列美观的SKU。

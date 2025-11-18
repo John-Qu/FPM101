@@ -19,6 +19,12 @@
   - https://www.gmondini.com/
   - https://www.harpak-ulma.com/g-mondini-trave-tray-sealer/
 
+### TRAVE‑350 图集（示例）
+
+![TRAVE‑350 供盘与进给](assets/competitors/gmondini-trave-350/trave-350-01-feed.jpg)
+
+更多图片可放置于 `product/assets/competitors/gmondini-trave-350/` 目录。
+
 ## MULTIVAC T700与MTC
 - 包装能力：MAP/EMAP/VSP（MultiFresh™），适配多规格托盘。
 - MTC（Tray Carrier）：不规则或重心特殊托盘的稳定传输与定位。

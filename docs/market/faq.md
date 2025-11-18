@@ -22,10 +22,10 @@
 ## 材料与托盘
 - 问：塑、铝、纸基托盘如何选择？
     - 答：塑基通用性好；铝基耐高温与阻隔佳；纸基强调外观与可持续但需验证耐潮与强度。
-    - 参考：内部 [纸基与可持续方案](../glossary/packaging-forms.md#纸基与可持续方案paper-based--skin-on-board)｜外部 [Paperseal® SKIN](https://www.gmondini.com/technology/paperseal-skin)
+    - 参考：内部 [纸基与可持续方案](../glossary/packaging-forms.md#纸基与可持续方案)｜外部 [Paperseal® SKIN](https://www.gmondini.com/technology/paperseal-skin)
 - 问：膜防穿刺与防雾在鲜肉/海鲜场景的重要性？
     - 答：海鲜/高蛋白穿刺风险高需加强膜强度；冷链陈列防雾影响展示与效率。
-    - 参考：内部 [VSP真空肌肤](../glossary/packaging-forms.md#vsp真空肌肤skin)｜内部 [MAP改良气调](../glossary/packaging-forms.md#mapmodified-atmosphere-packaging改良气调)
+    - 参考：内部 [VSP真空肌肤](../glossary/packaging-forms.md#VSP-真空肌肤)｜内部 [MAP改良气调](../glossary/packaging-forms.md#MAP-改良气调)
 
 ## 设备与整线
 - 问：整线关键模块如何划分？
@@ -38,18 +38,18 @@
 ## 质量与KPI/验收
 - 问：如何设置验收指标？
     - 答：节拍/产能、残氧/泄漏、换型时间、卫生清洁、整线联动与培训文档。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)
 - 问：泄漏如何检验与抽检频率怎么定？
     - 答：压力差、示踪气体、染色液等方法；按风险等级与批次设抽检并留样。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)｜内部 [包装形式科普/MAP段](../glossary/packaging-forms.md#mapmodified-atmosphere-packaging改良气调)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)｜内部 [包装形式科普/MAP段](../glossary/packaging-forms.md#MAP-改良气调)
 
 ## 换型与OEE
 - 问：换型对OEE影响最大在哪里？
     - 答：刀具/格式切换与稳定节拍恢复时间，需优化快速切换流程与治具。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)｜内部 [TS350映射](../product/ts350-mapping.md)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)｜内部 [TS350映射](../product/ts350-mapping.md)
 - 问：多规格托盘如何兼容？
     - 答：在设计范围内通过格式件与刀具模块化，明确尺寸公差与支撑强度。
-    - 参考：内部 [TS350映射](../product/ts350-mapping.md)｜内部 [客户需求采集模板](../../templates/customer_requirements.md)
+    - 参考：内部 [TS350映射](../product/ts350-mapping.md)｜内部 [客户需求采集模板](../playbooks/customer-requirements.md)
 
 ## 竞品与差异化
 - 问：TRAVE平台的核心优势？
@@ -67,7 +67,7 @@
     - 答：材料符合区域法规，标签内容规范与追溯信息完整。
 - 问：纸基方案的主要风险点？
     - 答：耐潮与强度、切边质量与版面稳定性需专项验证。
-    - 参考：内部 [纸基与可持续方案](../glossary/packaging-forms.md#纸基与可持续方案paper-based--skin-on-board)
+    - 参考：内部 [纸基与可持续方案](../glossary/packaging-forms.md#纸基与可持续方案)
 
 ## 集成与数据
 - 问：与上游灌装如何节拍匹配？
@@ -86,40 +86,40 @@
 ### 商超鲜肉MAP
 - 问：残氧与抽检策略如何设？
     - 答：目标≤0.5–1.0%，批次抽检+留样；泄漏用压力差或示踪法。
-    - 参考：内部 [包装形式科普/MAP段](../glossary/packaging-forms.md#mapmodified-atmosphere-packaging改良气调)｜内部 [测试与验收清单](../../templates/validation_checklist.md)
+    - 参考：内部 [包装形式科普/MAP段](../glossary/packaging-forms.md#MAP-改良气调)｜内部 [测试与验收清单](../playbooks/validation-checklist.md)
 - 问：膜与托盘选择？
     - 答：防穿刺、防雾，托盘支撑强度足；版面优化膜利用率。
-    - 参考：内部 [包装形式科普/VSP与纸基段](../glossary/packaging-forms.md#vsp真空肌肤skin)｜ [包装形式科普/纸基与可持续方案纸](../glossary/packaging-forms.md#纸基与可持续方案paper-based--skin-on-board)
+    - 参考：内部 [包装形式科普/VSP与纸基段](../glossary/packaging-forms.md#VSP-真空肌肤)｜ [包装形式科普/纸基与可持续方案纸](../glossary/packaging-forms.md#纸基与可持续方案)
 - 验收要点：节拍稳定、残氧/泄漏达标、切换规格时间。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)
 
 ### 中央厨房预制菜VSP
 - 问：为何选VSP？
     - 答：保形与陈列，适合高客单价或精致熟食。
-    - 参考：内部 [包装形式科普/VSP段](../glossary/packaging-forms.md#vsp真空肌肤skin)
+    - 参考：内部 [包装形式科普/VSP段](../glossary/packaging-forms.md#VSP-真空肌肤)
 - 问：切边与视觉一致性如何保证？
     - 答：刀具精度与膜贴合参数控制，陈列样本评审。
     - 参考：内部 [整线架构/封口与切边](../product/system-architecture.md)
 - 验收要点：稳定节拍、贴合质量与切边一致性、清洗时间。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)
 
 ### 即食餐常压/轻度MAP
 - 问：常压何时足够？
     - 答：短保SKU、成本效率优先；如需轻度延寿选轻度MAP。
-    - 参考：内部 [包装形式科普/常压段](../glossary/packaging-forms.md#常压封口lidding)｜ [包装形式科普/改良气调](../glossary/packaging-forms.md#mapmodified-atmosphere-packaging改良气调)
+    - 参考：内部 [包装形式科普/常压段](../glossary/packaging-forms.md#常压封口-lidding)｜ [包装形式科普/改良气调](../glossary/packaging-forms.md#MAP-改良气调)
 - 问：标签与追溯如何处理？
     - 答：打码/贴标联动，条码/批次追溯与报警。
     - 参考：内部 [整线架构/检测与标识](../product/system-architecture.md)
 - 验收要点：密封完整性、标签/追溯有效、整线节拍同步。
-    - 参考：内部 [测试与验收清单](../../templates/validation_checklist.md)
+    - 参考：内部 [测试与验收清单](../playbooks/validation-checklist.md)
 
 ## 需求澄清快速检查
 - 问：产品与场景、货架期目标与温控范围？
     - 答：按模板逐项确认，决定工艺与材料边界。
-    - 参考：内部 [客户需求采集模板](../../templates/customer_requirements.md)
+    - 参考：内部 [客户需求采集模板](../playbooks/customer-requirements.md)
 - 问：托盘尺寸范围与材质、支撑强度与变形风险？
     - 答：决定输送与夹持/定位方案。
-    - 参考：内部 [客户需求采集模板](../../templates/customer_requirements.md)
+    - 参考：内部 [客户需求采集模板](../playbooks/customer-requirements.md)
 - 问：产能与节拍、换型频率与时间窗？
     - 答：决定道数与格式件策略。
-    - 参考：内部 [客户需求采集模板](../../templates/customer_requirements.md)｜内部 [整线架构](../product/system-architecture.md)
+    - 参考：内部 [客户需求采集模板](../playbooks/customer-requirements.md)｜内部 [整线架构](../product/system-architecture.md)
