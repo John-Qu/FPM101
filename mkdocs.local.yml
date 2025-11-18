@@ -28,10 +28,8 @@ nav:
       - 高频问答: training/qa.md
       - 案例卡片: training/casecards.md
   - 词汇: glossary/terms.md
+  - 本地:
+      - 本地私有索引页: private/local-private-index.md
 theme:
   name: mkdocs
-plugins:
-  - exclude:
-      glob:
-        - private/**
-        - private/**/*
+plugins: []
