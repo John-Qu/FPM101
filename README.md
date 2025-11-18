@@ -9,20 +9,24 @@
 - 通过开源协作，推动国内食品包装行业整体进步。
 
 ## 项目内容
-- 市场与技术：生鲜/预制菜赛道、MAP/VSP/EMAP工艺与材料、整线模块与KPI。
-- 竞品库：G.Mondini TRAVE平台、MULTIVAC T700等机型的能力与参考链接。
+- 四大分类站点文档：
+  - 市场（Market）：客户场景、品类入口、案例卡片与FAQ。
+  - 产品（Product）：整线架构、TS350映射、竞品总览与讲义。
+  - 词汇（Glossary）：包装术语、包装形式科普与技术速成。
+  - 行动手册（Playbooks）：需求采集模板、测试与验收清单、问答脚本与速成讲义。
+- 竞品库：TRAVE平台、MULTIVAC T700等机型的能力与参考链接。
 - TS350映射：针对国内场景的规格、工艺、换型与差异化要点。
-- 培训资料：四小时培训大纲、客户高频问答、案例卡片与演练清单。
-- 模板与清单：竞品档案模板、客户需求采集、测试与验收、现场勘查。
-- 术语词汇：中英文对照，面向销售与外贸的关键概念速查。
+- 模板与清单：站内化页面用于发布，仓库根目录保留原始模板文件。
 
 ## 目录结构
-- `docs/` 市场/技术/设备/产品映射/竞品档案
+- `docs/` 站点文档（按四大分类组织）
+  - `market/` 客户场景与渠道诉求、品类入口、案例卡片、FAQ
+  - `product/` 整线架构、TS350映射、竞品总览与讲义
+  - `glossary/` 术语词汇、包装技术速成、包装形式科普
+  - `playbooks/` 行动手册（需求采集、验收清单、问答脚本、速成讲义）
 - `data/` 结构化数据（YAML/JSON），如竞品参数与参考链接
-- `training/` 培训材料（讲义提纲、问答、案例卡片）
-- `templates/` 模板（竞品档案、客户需求、验收清单）
-- `playbooks/` 现场沟通与勘查清单
-- `glossary/` 术语词汇（中英文对照）
+- `templates/` 原始模板（竞品档案、客户需求、验收清单）
+- `playbooks/` 仓库根目录下的现场勘查与沟通清单
 - `assets/` 图片与图示占位
 
 ## 快速开始
@@ -31,15 +35,16 @@
   git clone git@github.com:John-Qu/FPM101.git
   cd FPM101
   ```
-- 浏览内容：
-    - 阅读 `docs/technology/packaging-basics.md` 了解 MAP/VSP/EMAP 基础
-    - 查看 `docs/competitors/*.md` 了解竞品特性与参考链接
-    - 打开 `training/outline.md` 获取四小时培训结构与节奏
-- 使用模板：
-    - 复制 `templates/competitor.md` 作为新竞品档案的起点
-    - 在 `data/competitors/*.yml` 录入结构化参数（含来源链接）
-    - 用 `templates/customer_requirements.md` 做客户需求澄清
-    - 按 `templates/validation_checklist.md` 进行测试与验收
+- 浏览站点：
+  - GitHub Pages：`https://John-Qu.github.io/FPM101/`
+  - 市场：`docs/market/customer-scenarios.md`、`docs/market/faq.md`
+  - 产品：`docs/product/system-architecture.md`、`docs/product/ts350-mapping.md`、`docs/product/competitors.md`
+  - 词汇：`docs/glossary/packaging-basics.md`、`docs/glossary/packaging-forms.md`
+  - 行动手册：`docs/playbooks/customer-requirements.md`、`docs/playbooks/validation-checklist.md`、`docs/playbooks/qa.md`、`docs/playbooks/packaging-quickstart.md`
+- 使用模板与数据：
+  - 复制 `templates/competitor.md` 作为新竞品档案的起点
+  - 在 `data/competitors/*.yml` 录入结构化参数（含来源链接）
+  - 站内化页面用于站点发布；原始模板位于 `templates/` 目录
 
 ## 数据约定
 - 竞品数据以 YAML 存放于 `data/competitors/`，字段示例：
@@ -49,10 +54,10 @@
 - 每条数据需附权威来源链接与采集时间；不明参数暂以 `tbd` 占位。
 
 ## 培训材料使用
-- 课程结构：`training/outline.md`（四小时）
-- 问答手册：`training/qa.md`（客户高频问题与标准回答）
-- 案例卡片：`training/casecards.md`（典型应用与风险提醒）
-- 现场演练：`playbooks/customer_scoping.md` 与 `playbooks/site_survey.md`
+- 讲义：`docs/product/competitors-lecture.md`
+- 客户问答：`docs/market/faq.md` 与 `docs/playbooks/qa.md`
+- 案例卡片：`docs/market/casecards.md`
+- 现场演练与勘查：仓库根目录 `playbooks/customer_scoping.md` 与 `playbooks/site_survey.md`
 
 ## 参与方式
 - 提交信息与改动：
