@@ -12,7 +12,7 @@
     <a class="btn" href="product/ts350-mapping/">产品：TS350映射与边界</a>
   </div>
   <div class="hero-actions">
-    <a class="btn" href="product/competitors.md">产品：竞品总览与档案</a>
+    <a class="btn" href="product/competitors/">产品：竞品总览与档案</a>
     <a class="btn" href="market/pack-categories/">市场：按品类浏览</a>
     <a class="btn" href="market/faq/">市场：高频问答与验收</a>
     <a class="btn" href="market/casecards/">市场：案例卡片</a>
